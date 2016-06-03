@@ -1,0 +1,14 @@
+layout_spectrum: 0.9595047708135098
+typography_spectrum: 0.9836612150538713
+color:
+  brandStrength: 0.6147707742638886
+  lightness: 0.4178021759726107
+  saturation: 0.11942643416114151
+  rhythmicContrast: 0.17250964976847172
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: MichaelHemp.com
